@@ -2,8 +2,8 @@
 - 👀 I’m interested in anything that involves laptops 
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on game development 
-- 📫 How to reach me 
-- 😄 Pronouns: ...
+- 📫 How to reach me www.linkedin.com/in/anagha-dixit-306a742b6
+- 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ...i overshare codes :)
 
 <!---
